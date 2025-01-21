@@ -9,7 +9,7 @@
         <a href="https://whatplusapp.com/" target="_blank" class="cta">Join Now</a>
     </main>
     <footer>
-        <p>© 2025 WhatsApp Plus | All rights reserved. Visit our <a href="https://whatplusapp.com/privacy" target="_blank">Privacy Policy</a>.</p>
+        <p>© 2025 WhatsApp Plus | All rights reserved. Visit our <a href="https://whatplusapp.com/" target="_blank">Privacy Policy</a>.</p>
     </footer>
 </body>
 </html>
